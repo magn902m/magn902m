@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-My name is Magnus Nielsen, 22 years old and I love being creative in communication, design and everything about the web. On a daily basis, I study at KEA, as a multimedia designer for 3 semesters. Where I have chosen the elective frontend design as I have opened my eyes to an exciting world behind coding web. I have worked with html, css, js, ui, ux, design and much more on the multimedia designer education. I find quite clear, code and ui design most interested of all things in education.
+I am 22 years old and I love being creative in communication, design and everything about the web. On a daily basis, I study at KEA, as a multimedia designer for 3 semesters. Where I have chosen the elective frontend design as I have opened my eyes to an exciting world behind coding web. I have worked with html, css, js, ui, ux, design and much more on the multimedia designer education. I find quite clear, code and ui design most interested of all things in education.
 
 - 🌍  I'm based in Copenhagen
 - 🖥️  See my portfolio at [Design by Magnus](http://designbymagnus.dk)
