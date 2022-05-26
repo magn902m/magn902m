@@ -33,6 +33,10 @@ I am 22 years old and I love being creative in communication, design and everyth
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/magn902m"><img src="https://github-readme-stats.vercel.app/api?username=magn902m&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="magn902m's GitHub stats" /></a>
+<a href="https://github.com/magn902m" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magn902m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/magn902m" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magn902m&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/magn902m"><img src="https://github-readme-stats.vercel.app/api?username=magn902m&show_icons=true&hide=stars,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="magn902m's GitHub stats" /></a>
+
+<a href="http://www.github.com/magn902m"><img src="https://activity-graph.herokuapp.com/graph?username=magn902m&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
