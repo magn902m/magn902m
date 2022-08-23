@@ -8,6 +8,7 @@ I am 22 years old and I love being creative in communication, design and everyth
 - 🖥️  See my portfolio at [Design by Magnus](http://designbymagnus.dk)
 - ✉️  You can contact me at [magnus3509@hotmail.com](mailto:magnus3509@hotmail.com)
 - 🧠  I'm learning React, Sass, npm
+- See my third semester exam project: https://foofest.netlify.app/
 
 ### Skills
 
